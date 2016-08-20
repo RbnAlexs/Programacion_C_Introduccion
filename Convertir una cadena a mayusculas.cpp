@@ -1,7 +1,3 @@
-/*
-Escribe un programa que valide una contraseña ingresada por el usuario. El usuario tendrá tres intentos para
-ingresar la contraseña correcta, de lo contrario,el programa mostrará el mensaje *usuario no autorizado*
-*/
 #include<stdio.h>
 #include<conio.h>
 #include <ctype.h>  /* << Librería que contiene la palabra reservada llamada toupper, la cual nos ayuda a convertir alguna letra o cadena a mayúsculas.*/

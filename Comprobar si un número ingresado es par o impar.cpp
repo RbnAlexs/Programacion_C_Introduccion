@@ -1,4 +1,3 @@
-/*Escribe el código fuente de un programa que obtenga el promedio de tres números, empleando cada uno de los paradigmas de programación: imperativo, orientado a objetos y funcional. */
 #include <stdio.h>
 main(){
        //Declaramos la variable la cual procesaremos para determinar si es par o impar, como lo marca la actividad
